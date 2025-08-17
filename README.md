@@ -39,7 +39,7 @@ I'm currently rebuilding my portfolio with clean, responsive React apps and real
 | Project | Description | Stack |
 |--------|-------------|-------|
 | [🌐 Portfolio Website](https://thomaswilliamscode.github.io/Portfolio) | Clean dev showcase built to highlight projects and skills | HTML, CSS, JavaScript |
-| [✅ Order of Execution (To-Do App)](https://github.com/thomaswilliamscode/order-of-execution) | A focused task manager built for clarity and momentum — folders, lists, and persistent local storage | React, TypeScript, LocalStorage |
+| [✅ Order of Execution (To-Do App)](https://github.com/thomaswilliamscode/todo) | A focused task manager built for clarity and momentum — folders, lists, and persistent local storage | React, TypeScript, LocalStorage |
 | 🛠️ TikTok Command Center *(coming soon)* | Tool to plan, script, and track TikTok content creation, analytics and automated scheduling | React, Supabase |
 | [📚 BloomTech Project Archive](https://github.com/thomaswilliamscode/bloomtech-archive) | My full bootcamp archive — authentication, APIs, testing & more | Node.js, React, SQL, JWT |
 
