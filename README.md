@@ -4,9 +4,11 @@ Hi 👋 My name is Thomas Williams
 Full Stack Web Developer | UX-Focused Problem Solver
 ---------------------------------------------
 
-I'm a passionate developer who turns ideas into intuitive, functional tools. With a background in customer service, I think deeply about how users interact with what I build — prioritizing clarity, flow, and features that actually solve real problems.
+I’m a frontend developer who turns ideas into intuitive, functional tools. With a background in customer service, I think deeply about how users interact with what I build — prioritizing clarity, accessibility, and features that solve real problems.
 
-I'm currently rebuilding my portfolio with clean, responsive React apps and real-world solo projects. Every line of code is written with the end user in mind.
+I’m currently rebuilding my portfolio through a 70-Day Transformation Arc, focused on clean, responsive React apps and real-world solo projects that reflect how I think and how I grow.
+
+As a neurodivergent developer, I value calm structure, intuitive interfaces, and systems that reduce friction. Coding helps me turn chaos into clarity — and I’m ready to bring that strength into a real team.
 
 ---
 
