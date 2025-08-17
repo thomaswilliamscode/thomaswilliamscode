@@ -1,12 +1,12 @@
 Hi 👋 My name is Thomas Williams
 ================================
 
-Full Stack Web Developer | UX-Focused Builder
+Full Stack Web Developer | UX-Focused Problem Solver
 ---------------------------------------------
 
-I'm a passionate developer who loves turning ideas into seamless, interactive experiences. With a background in customer service and a creative eye for design, I thrive on crafting tools I’d actually want to use — intuitive, fast, and fun.
+I'm a passionate developer who turns ideas into intuitive, functional tools. With a background in customer service, I think deeply about how users interact with what I build — prioritizing clarity, flow, and features that actually solve real problems.
 
-Currently rebuilding my portfolio with clean, responsive React apps and real-world solo projects. Every line of code is written with the end user in mind.
+I'm currently rebuilding my portfolio with clean, responsive React apps and real-world solo projects. Every line of code is written with the end user in mind.
 
 ---
 
@@ -39,8 +39,8 @@ Currently rebuilding my portfolio with clean, responsive React apps and real-wor
 | Project | Description | Stack |
 |--------|-------------|-------|
 | [🌐 Portfolio Website](https://thomaswilliamscode.github.io/Portfolio) | Clean dev showcase built to highlight projects and skills | HTML, CSS, JavaScript |
-| [✅ Order of Execution (To-Do App)](https://github.com/thomaswilliamscode/order-of-execution) | A task manager built like a command center — organized, fast, and responsive | React, Supabase |
-| 🛠️ TikTok Command Center *(coming soon)* | Tool to plan, script, and track TikTok content creation and analytics | React, Firebase, ElevenLabs |
+| [✅ Order of Execution (To-Do App)](https://github.com/thomaswilliamscode/order-of-execution) | A focused task manager built for clarity and momentum — folders, lists, and persistent local storage | React, TypeScript, LocalStorage |
+| 🛠️ TikTok Command Center *(coming soon)* | Tool to plan, script, and track TikTok content creation, analytics and automated scheduling | React, Supabase |
 | [📚 BloomTech Project Archive](https://github.com/thomaswilliamscode/bloomtech-archive) | My full bootcamp archive — authentication, APIs, testing & more | Node.js, React, SQL, JWT |
 
 ---
